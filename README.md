@@ -9,8 +9,13 @@ $ json-server --watch db.json
 $ ng serve
 
 # 基本的なコマンド
-ng new	プロジェクト作成
-ng serve	開発サーバー起動
-ng generate	コンポーネントなどの生成
-ng build	本番ビルド
-ng add	ライブラリ追加
+### プロジェクト作成
+$ ng new
+### 開発サーバー起動
+$ ng serve
+### コンポーネントなどの生成
+$ ng generate
+### 本番ビルド
+$ ng build
+### ライブラリ追加
+$ ng add
